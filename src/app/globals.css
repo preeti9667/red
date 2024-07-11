@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: #fff;  
+}
+.avatar{
+  border: 2px solid black;
+}
